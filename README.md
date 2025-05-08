@@ -34,7 +34,7 @@ This repository acts as the central hub for a modular suite of tools that extend
 
 | Project | Description |
 |--------|-------------|
-| [`Neo.Quantower.Toolkit`]([[https://github.com/neonic/neo-quantower-toolkit](https://github.com/Nico88-Vs/NeoQuantowerTools.git)]) | Core framework for modular plugin development in C# |
+| [`Neo.Quantower.Toolkit`](https://github.com/Nico88-Vs/NeoQuantowerTools.git) | Core framework for modular plugin development in C# |
 | [`Strategy Manager`](https://github.com/neonic/strategy-manager) | Component for managing trading strategies, SL/TP and metrics |
 | [`RL.Training.Core`](https://github.com/neonic/rl-training-core) | Python backend for training reinforcement learning agents |
 | [`RL.Training.UI`](https://github.com/neonic/rl-training-ui) | Streamlit UI to configure and monitor training sessions |
