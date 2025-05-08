@@ -3,7 +3,6 @@
   <img src="assets/neonic-avatar.png" width="200" alt="neonic avatar" />
 </p>
 
-<h1 align="center">neonic</h1>
 <p align="center"><i>"I build on what others have built — so that the next can build higher."</i></p>
 
 ---
