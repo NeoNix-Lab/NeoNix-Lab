@@ -52,7 +52,7 @@ This repository acts as the central hub for a modular suite of tools that extend
 
 ## 🗂 GitHub Project Board
 
-Use the [Project Board](https://github.com/neonic/neonic/projects) to follow feature planning, task status and roadmap.
+Use the [Project Board]([https://github.com/neonic/neonic/projects](https://github.com/users/Nico88-Vs/projects/4)) to follow feature planning, task status and roadmap.
 
 ---
 
