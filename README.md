@@ -1,9 +1,8 @@
 
 <p align="center">
-  <img src="assets/neonic-avatar.png" width="200" alt="neonic avatar" />
+  <img src="assets/neonic-avatar.png" width="180" alt="neonic avatar" /><br>
+  <em>"I build on what others have built — so that the next can build higher."<em>
 </p>
-
-<p align="center"><i>"I build on what others have built — so that the next can build higher."</i></p>
 
 ---
 
