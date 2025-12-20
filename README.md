@@ -34,6 +34,7 @@ This repository acts as the central hub for a modular suite of tools that extend
 | Project | Description |
 |--------|-------------|
 | [`Neo.Quantower.Toolkit`](https://github.com/Nico88-Vs/NeoQuantowerTools.git) | Core framework for modular plugin development in C# |
+| [`Neo.Quantower.StrategyAnalysisPlatform`](https://github.com/NeoNix-Lab/StrategyAnalysisPlatform.git) | A web-based trading analytics platform built with React that evaluates, compares and visualizes trading strategies using market data |
 | [`Strategy Manager`](https://github.com/Nico88-Vs/Quantower-Orders-Manager.git) | Component for managing trading strategies, SL/TP and metrics |
 | [`RL.Training.Core`](https://github.com/Nico88-Vs/Rnn_V0_1.git) | Python backend for training reinforcement learning agents with streamlit ui|
 | [`RL.Quantower.UIBridge`](https://github.com/Nico88-Vs/QT_Ai_Plug_In_Integration.git) | Experimental plugin to control RL agents directly in Quantower |
@@ -50,7 +51,7 @@ This repository acts as the central hub for a modular suite of tools that extend
 
 ## 🗂 GitHub Project Board
 
-Use the [Project Board](https://github.com/users/Nico88-Vs/projects/4) to follow feature planning, task status and roadmap.
+Use the [Project Board](https://github.com/users/Nico88-Vs/projects/6) to follow feature planning, task status and roadmap.
 
 ---
 
